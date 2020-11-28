@@ -1,0 +1,6 @@
+D:\Users\FiSa\Desktop\App\VisualStudi2015\IAEval\IAEval\bin\Debug\IAEval.exe.config
+D:\Users\FiSa\Desktop\App\VisualStudi2015\IAEval\IAEval\bin\Debug\IAEval.exe
+D:\Users\FiSa\Desktop\App\VisualStudi2015\IAEval\IAEval\bin\Debug\IAEval.pdb
+D:\Users\FiSa\Desktop\App\VisualStudi2015\IAEval\IAEval\obj\Debug\IAEval.csprojResolveAssemblyReference.cache
+D:\Users\FiSa\Desktop\App\VisualStudi2015\IAEval\IAEval\obj\Debug\IAEval.exe
+D:\Users\FiSa\Desktop\App\VisualStudi2015\IAEval\IAEval\obj\Debug\IAEval.pdb
